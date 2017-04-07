@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.org.soft.domain.Login;
 
 /**
- * @author samy
+ * @author Gowri Shankar
  *
  */
 @Controller
